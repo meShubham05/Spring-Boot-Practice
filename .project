@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Spring_AutoWiring_App</name>
+=======
+	<name>Bean_Life_Cycle_App</name>
+>>>>>>> branch 'main' of https://github.com/meShubham05/Spring-Boot-Practice.git
 	<comment></comment>
 	<projects>
 	</projects>
